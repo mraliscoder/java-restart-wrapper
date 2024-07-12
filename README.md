@@ -6,7 +6,7 @@ I use this utility to automatically restart crashed Minecraft on Twitch 24/7 str
 
 ### How to use?
 1. Download from Releases
-2. Run with required arguments but without javaw.exe (for example, `javaw_wrapper.exe -jar game.jar`
+2. Run with required arguments but without javaw.exe (for example, `javaw-wrapper.exe -jar game.jar`
 3. In Application Window click 'Change' to locate javaw.exe.
 4. If needed click 'Restart next time'
 5. Click 'Run'
